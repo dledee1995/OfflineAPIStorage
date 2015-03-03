@@ -185,8 +185,8 @@ TheSubReddit mySubReddits;
                 saveObject(mySubReddits);
 
                 // Get the Object
-                TheSubReddit allofthesavedSubReddits = (TheSubReddit)loadSerializedObject(new File("/save_object.bin")); //get the serialized object from the sdcard and caste it into the Person class.
-                Log.e("REDDITS","" + mySubReddits.toString());
+//                TheSubReddit allofthesavedSubReddits = (TheSubReddit)loadSerializedObject(new File("/save_object.bin")); //get the serialized object from the sdcard and caste it into the Person class.
+//                Log.e("REDDITS","" + mySubReddits.toString());
 
 
 
